@@ -1,0 +1,20 @@
+
+.container {
+    display: flex;
+    justify-content: space-between;
+  }
+ 
+.right-side {
+    flex: 2;
+    border: 1px solid #ccc;
+    background-color: #ffffff;
+  }
+  .right-side h1{
+    color: #0c4a6e;
+  }
+  .right-side div{
+    font-size: 1rem;
+    margin-bottom: 2rem;
+  }
+ 
+  
