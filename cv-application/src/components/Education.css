@@ -1,0 +1,15 @@
+.right-side div{
+    font-size: 1.5rem;
+   
+}
+.result{
+ display: flex;
+ margin-left: 2rem;
+}
+.result div{
+    margin-inline: 2rem;
+}
+.result-card {
+    display: flex;
+    justify-content: center;
+}
