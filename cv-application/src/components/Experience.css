@@ -1,0 +1,22 @@
+.right-side div {
+    font-size: 1.5rem;
+}
+
+.result {
+    margin-left: 2rem; /* Adjust the margin as needed */
+    display: flex;
+}
+
+.result-card {
+    display: block;
+}
+
+.result-one {
+    display: flex;
+    margin-top: -4rem;
+    margin-left: 4rem;
+}
+.result-one div:last-child{
+    margin-left: 6rem;
+}
+
